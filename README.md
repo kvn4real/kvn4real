@@ -4,5 +4,4 @@
 
 Follow my social media : 
 
-[Instagram](https://www.instagram.com/kvn4real_/)
-[TikTok](https://www.tiktok.com/@kvncrcy)
+[Instagram](https://www.instagram.com/kvn4real_/) | [TikTok](https://www.tiktok.com/@kvncrcy)
