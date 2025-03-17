@@ -1,6 +1,4 @@
-# Salut, je suis Kevin 👋
-
-![Profil Banner](https://via.placeholder.com/1200x400/4a90e2/ffffff?text=Bienvenue+sur+mon+profil+GitHub)
+# Salut, je suis kvn4real 👋
 
 Je suis **développeur web** passionné par le **webdesign** et la **photographie**. Actuellement en **BTS SIO**, je m'intéresse aussi à la **cybersécurité**.
 
