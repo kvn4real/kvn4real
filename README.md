@@ -1,16 +1,22 @@
-### Hi there 👋
+# Salut, je suis Kevin 👋
 
-## I'm kvn4real or call me Kevin and I'm beginner developer, webdesigner & photographer
+![Profil Banner](https://via.placeholder.com/1200x400/4a90e2/ffffff?text=Bienvenue+sur+mon+profil+GitHub)
 
-Follow my social media : 
+Je suis **développeur web** passionné par le **webdesign** et la **photographie**. Actuellement en **BTS SIO**, je m'intéresse aussi à la **cybersécurité**.
 
-[Instagram](https://www.instagram.com/kvn4real_/) | [TikTok](https://www.tiktok.com/@kvncrcy)
+---
 
+## 📈 Statistiques
 
-# Mon Projet Exceptionnel
+![Mes statistiques GitHub](https://github-readme-stats.vercel.app/api?username=kvn4real&show_icons=true&count_private=true&hide_title=true&theme=radical)
 
-![Banner Image](https://link-to-image.com/banner.jpg)
+---
 
-## Description
+## 📫 Contact
 
-Bienvenue sur le dépôt **Mon Projet Exceptionnel**. Ce projet vise à [objectif du projet]. Il est conçu pour [explication de ce que fait le projet et pourquoi il est utile]
+[![Twitter Badge](https://img.shields.io/badge/Twitter-Follow-blue?logo=twitter&logoColor=white)](https://twitter.com/kvn4real)
+[![Instagram Badge](https://img.shields.io/badge/Instagram-Follow-purple?logo=instagram&logoColor=white)](https://www.instagram.com/kvn4real_)
+
+---
+
+> "Heliocentrism is my faith"
