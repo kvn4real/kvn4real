@@ -8,7 +8,7 @@
 
 ## 📫 Contact
 
-[![Twitter Badge](https://img.shields.io/badge/Twitter-Follow-blue?logo=twitter&logoColor=white)](https://twitter.com/kvn4prv)
+[![Twitter Badge](https://img.shields.io/badge/Twitter-Follow-blue?logo=twitter&logoColor=white)](https://twitter.com/kvn4real)
 [![Instagram Badge](https://img.shields.io/badge/Instagram-Follow-purple?logo=instagram&logoColor=white)](https://www.instagram.com/kvn4real_)
 
 ---
