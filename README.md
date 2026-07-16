@@ -11,7 +11,7 @@
 ![BTS SIO SISR](https://img.shields.io/badge/BTS%20SIO-SISR-1a4d2e?style=flat-square&labelColor=0d1117&color=39FF88)
 ![Location](https://img.shields.io/badge/📍-Île--de--France,%20France-0d1117?style=flat-square&labelColor=0d1117&color=6c5ce7)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-0d1117?style=for-the-badge&logo=vercel&logoColor=39FF88&labelColor=0d1117&color=1a4d2e)](https://your-portfolio-url.vercel.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0d1117?style=for-the-badge&logo=linkedin&logoColor=39FF88&labelColor=0d1117&color=1a4d2e)](https://linkedin.com/in/YOUR-LINKEDIN)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0d1117?style=for-the-badge&logo=linkedin&logoColor=39FF88&labelColor=0d1117&color=1a4d2e)](https://www.linkedin.com/in/kevinbayeul?utm_source=share_via&utm_content=profile&utm_medium=member_ios)
 [![Email](https://img.shields.io/badge/Email-Contact-0d1117?style=for-the-badge&logo=gmail&logoColor=39FF88&labelColor=0d1117&color=1a4d2e)](mailto:kevinb.bayeul@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-0d1117?style=for-the-badge&logo=github&logoColor=39FF88&labelColor=0d1117&color=1a4d2e)](https://github.com/kvn4real)
 
@@ -210,7 +210,7 @@ focus_actuel:
 <div align="center">
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kevinb.bayeul@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kevinbayeul)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kevinbayeul?utm_source=share_via&utm_content=profile&utm_medium=member_ios)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kvn4real)
 [![Portfolio](https://img.shields.io/badge/Portfolio-1a4d2e?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-kevin-bayeul.vercel.app)
 
