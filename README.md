@@ -122,25 +122,6 @@ Refonte du code avec CSS/JS partagés centralisés, correction du routage `verce
 </details>
 
 <details>
-<summary><b>⚽ Tranquillo Sub Foot — Gestionnaire d'Abonnements</b></summary>
-<br/>
-
-Application web de gestion d'abonnements football avec un style visuel "Apple Liquid Glass", suivant les paiements et abonnements via des graphiques interactifs.
-
-| | |
-|---|---|
-| **Stack** | Next.js, Tailwind CSS v4, Recharts, localStorage |
-| **Échelle** | Application client mono-utilisateur |
-| **Performance** | Entièrement côté client, aucune latence backend |
-| **Sécurité** | Persistance des données en local uniquement |
-| **Impact** | Répond à un besoin réel de suivi d'abonnements |
-| **Dépôt** | `kvn4real/tranquillo-sub-foot` |
-
-Déployé sur Vercel ; résolution de problèmes Windows/Git liés aux chemins et à la détection du build dans des dossiers imbriqués.
-
-</details>
-
-<details>
 <summary><b>🛍️ ORBIT — E-commerce Streetwear</b></summary>
 <br/>
 
@@ -156,42 +137,6 @@ Boutique en ligne streetwear ("shop4real") avec un parcours d'achat complet.
 | **Dépôt** | `kvn4real/Orbit` |
 
 Paiement Stripe via fonctions serverless avec composants d'interface partagés entre les pages.
-
-</details>
-
-<details>
-<summary><b>📄 CV Builder</b></summary>
-<br/>
-
-Application web complète en JavaScript vanille pour créer des CV, avec authentification locale et export PDF soigné.
-
-| | |
-|---|---|
-| **Stack** | JavaScript vanille, HTML/CSS, localStorage |
-| **Échelle** | 6 templates, 12+ types de blocs de section |
-| **Performance** | Entièrement côté client, édition instantanée |
-| **Sécurité** | Authentification via localStorage |
-| **Impact** | Réorganisation par glisser-déposer, sélecteurs de couleurs personnalisés, export PDF propre |
-| **Dépôt** | `kvn4real/cv-builder` |
-
-Masque les éléments d'impression du navigateur pour un rendu PDF soigné et prêt à l'emploi.
-
-</details>
-
-<details>
-<summary><b>🤖 Dashboard de Gestion de Serveur Discord</b> <i>(en cours)</i></summary>
-<br/>
-
-Bot Discord et dashboard web avec hébergement séparé pour la gestion de serveurs.
-
-| | |
-|---|---|
-| **Stack** | discord.js v14 (bot), Next.js (dashboard) |
-| **Échelle** | Bot sur Railway, dashboard sur Vercel |
-| **Performance** | Hébergement découplé pour une mise à l'échelle indépendante |
-| **Sécurité** | OAuth Discord (prévu) |
-| **Impact** | Outil centralisé de gestion de serveur |
-| **Dépôt** | `kvn4real/discord-dashboard` |
 
 </details>
 
@@ -265,9 +210,9 @@ focus_actuel:
 <div align="center">
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kevinb.bayeul@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR-LINKEDIN)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kevinbayeul)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kvn4real)
-[![Portfolio](https://img.shields.io/badge/Portfolio-1a4d2e?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio-url.vercel.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-1a4d2e?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-kevin-bayeul.vercel.app)
 
 </div>
 
