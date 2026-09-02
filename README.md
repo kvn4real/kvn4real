@@ -242,32 +242,6 @@ A streetwear boutique site ("shop4real") with full checkout functionality.
 
 </details>
 
-<details>
-<summary><b>CV Builder</b></summary>
-<br/>
-
-A full vanilla JS web app for building resumes, with local authentication and clean PDF export.
-
-| | |
-|---|---|
-| **Stack** | Vanilla JavaScript, HTML/CSS, localStorage |
-| **Repository** | `kvn4real/cv-builder` |
-
-</details>
-
-<details>
-<summary><b>Discord Server Management Dashboard</b> <i>(in progress)</i></summary>
-<br/>
-
-A split-hosted Discord bot + web dashboard for server management.
-
-| | |
-|---|---|
-| **Stack** | discord.js v14 (bot), Next.js (dashboard) |
-| **Repository** | `kvn4real/discord-dashboard` |
-
-</details>
-
 ---
 
 ### Currently seeking a work-study placement
