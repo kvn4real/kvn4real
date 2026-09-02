@@ -1,25 +1,25 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0f2b1d,100:1a4d2e&height=220&section=header&text=Kevin%20Bayeul&fontSize=52&fontColor=39FF88&animation=fadeIn&fontAlignY=38&desc=Systems%20%26%20Network%20Administrator%20%E2%80%A2%20Full%20Stack%20Builder&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0b14,50:1a1030,100:3a2470&height=220&section=header&text=Kevin%20Bayeul&fontSize=52&fontColor=B69AFF&animation=fadeIn&fontAlignY=38&desc=Systems%20%26%20Network%20Administrator%20%E2%80%A2%20Full%20Stack%20Builder&descAlignY=58&descSize=18" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=800&color=39FF88&center=true&vCenter=true&width=650&lines=BTS+SIO+SISR+Graduate;IT+Support+%7C+Systems+%26+Network+Admin;Active+Directory+%7C+MFA+%7C+Windows+Deployment;Building+full-stack+side+projects+in+my+free+time" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=800&color=B69AFF&center=true&vCenter=true&width=650&lines=BTS+SIO+SISR+Graduate;IT+Support+%7C+Systems+%26+Network+Admin;Active+Directory+%7C+MFA+%7C+Windows+Deployment;Building+full-stack+side+projects+in+my+free+time" alt="Typing SVG" />
 </a>
 
 <br/>
 
-![BTS SIO SISR](https://img.shields.io/badge/BTS%20SIO-SISR-1a4d2e?style=flat-square&labelColor=0d1117&color=39FF88)
-![Location](https://img.shields.io/badge/📍-Île--de--France,%20France-0d1117?style=flat-square&labelColor=0d1117&color=6c5ce7)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-0d1117?style=for-the-badge&logo=vercel&logoColor=39FF88&labelColor=0d1117&color=1a4d2e)](https://your-portfolio-url.vercel.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0d1117?style=for-the-badge&logo=linkedin&logoColor=39FF88&labelColor=0d1117&color=1a4d2e)](https://www.linkedin.com/in/kevinbayeul?utm_source=share_via&utm_content=profile&utm_medium=member_ios)
-[![Email](https://img.shields.io/badge/Email-Contact-0d1117?style=for-the-badge&logo=gmail&logoColor=39FF88&labelColor=0d1117&color=1a4d2e)](mailto:kevinb.bayeul@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-0d1117?style=for-the-badge&logo=github&logoColor=39FF88&labelColor=0d1117&color=1a4d2e)](https://github.com/kvn4real)
+![BTS SIO SISR](https://img.shields.io/badge/BTS%20SIO-SISR-3a2470?style=flat-square&labelColor=0d0b14&color=B69AFF)
+![Location](https://img.shields.io/badge/📍-Île--de--France,%20France-0d0b14?style=flat-square&labelColor=0d0b14&color=8b5cf6)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-0d0b14?style=for-the-badge&logo=vercel&logoColor=B69AFF&labelColor=0d0b14&color=3a2470)](https://your-portfolio-url.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0d0b14?style=for-the-badge&logo=linkedin&logoColor=B69AFF&labelColor=0d0b14&color=3a2470)](https://www.linkedin.com/in/kevinbayeul?utm_source=share_via&utm_content=profile&utm_medium=member_ios)
+[![Email](https://img.shields.io/badge/Email-Contact-0d0b14?style=for-the-badge&logo=gmail&logoColor=B69AFF&labelColor=0d0b14&color=3a2470)](mailto:kevinb.bayeul@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-0d0b14?style=for-the-badge&logo=github&logoColor=B69AFF&labelColor=0d0b14&color=3a2470)](https://github.com/kvn4real)
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=kvn4real&style=flat-square&color=39ff88&label=PROFILE+VIEWS)
-![Followers](https://img.shields.io/github/followers/kvn4real?style=flat-square&color=39ff88&labelColor=0d1117&label=FOLLOWERS)
-![Stars](https://img.shields.io/github/stars/kvn4real?style=flat-square&color=39ff88&labelColor=0d1117&label=STARS)
+![Profile Views](https://komarev.com/ghpvc/?username=kvn4real&style=flat-square&color=b69aff&label=PROFILE+VIEWS)
+![Followers](https://img.shields.io/github/followers/kvn4real?style=flat-square&color=b69aff&labelColor=0d0b14&label=FOLLOWERS)
+![Stars](https://img.shields.io/github/stars/kvn4real?style=flat-square&color=b69aff&labelColor=0d0b14&label=STARS)
 
 <br/>
 
@@ -56,7 +56,7 @@ Recherche:
 ![Windows Server](https://img.shields.io/badge/Windows%20Server-0078D6?style=flat-square&logo=windows&logoColor=white)
 ![Active Directory](https://img.shields.io/badge/Active%20Directory-0078D6?style=flat-square&logo=microsoft&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![TCP/IP](https://img.shields.io/badge/TCP%2FIP-1a4d2e?style=flat-square&logo=cisco&logoColor=white)
+![TCP/IP](https://img.shields.io/badge/TCP%2FIP-3a2470?style=flat-square&logo=cisco&logoColor=white)
 
 **Langages**
 
@@ -70,7 +70,7 @@ Recherche:
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![Recharts](https://img.shields.io/badge/Recharts-1a4d2e?style=flat-square&logo=chart.js&logoColor=white)
+![Recharts](https://img.shields.io/badge/Recharts-3a2470?style=flat-square&logo=chart.js&logoColor=white)
 
 **Backend, Données & Outils**
 
@@ -178,7 +178,7 @@ Diplômé du BTS SIO SISR, je recherche une entreprise pour une alternance où j
 
 **Académique**
 
-![BTS SIO SISR](https://img.shields.io/badge/BTS%20SIO-SISR-1a4d2e?style=for-the-badge&labelColor=0d1117&color=39FF88)
+![BTS SIO SISR](https://img.shields.io/badge/BTS%20SIO-SISR-3a2470?style=for-the-badge&labelColor=0d0b14&color=B69AFF)
 
 *Ajoute ici les badges des certifications au fur et à mesure, ex :*
 
@@ -212,7 +212,7 @@ focus_actuel:
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kevinb.bayeul@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kevinbayeul?utm_source=share_via&utm_content=profile&utm_medium=member_ios)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kvn4real)
-[![Portfolio](https://img.shields.io/badge/Portfolio-1a4d2e?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-kevin-bayeul.vercel.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-3a2470?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-kevin-bayeul.vercel.app)
 
 </div>
 
@@ -251,7 +251,7 @@ Open To:
 ![Windows Server](https://img.shields.io/badge/Windows%20Server-0078D6?style=flat-square&logo=windows&logoColor=white)
 ![Active Directory](https://img.shields.io/badge/Active%20Directory-0078D6?style=flat-square&logo=microsoft&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![TCP/IP](https://img.shields.io/badge/TCP%2FIP-1a4d2e?style=flat-square&logo=cisco&logoColor=white)
+![TCP/IP](https://img.shields.io/badge/TCP%2FIP-3a2470?style=flat-square&logo=cisco&logoColor=white)
 
 **Languages**
 
@@ -265,7 +265,7 @@ Open To:
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![Recharts](https://img.shields.io/badge/Recharts-1a4d2e?style=flat-square&logo=chart.js&logoColor=white)
+![Recharts](https://img.shields.io/badge/Recharts-3a2470?style=flat-square&logo=chart.js&logoColor=white)
 
 **Backend, Data & Tooling**
 
@@ -428,7 +428,7 @@ BTS SIO SISR graduate looking for a company to complete a work-study program, wh
 
 **Academic**
 
-![BTS SIO SISR](https://img.shields.io/badge/BTS%20SIO-SISR-1a4d2e?style=for-the-badge&labelColor=0d1117&color=39FF88)
+![BTS SIO SISR](https://img.shields.io/badge/BTS%20SIO-SISR-3a2470?style=for-the-badge&labelColor=0d0b14&color=B69AFF)
 
 *Add provider badges here as you earn them, e.g.:*
 
@@ -441,10 +441,10 @@ BTS SIO SISR graduate looking for a company to complete a work-study program, wh
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=kvn4real&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=39FF88&icon_color=6c5ce7&text_color=c9d1d9"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kvn4real&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=39FF88&text_color=c9d1d9"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=kvn4real&show_icons=true&theme=dark&hide_border=true&bg_color=0d0b14&title_color=B69AFF&icon_color=8b5cf6&text_color=c9d1d9"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kvn4real&layout=compact&theme=dark&hide_border=true&bg_color=0d0b14&title_color=B69AFF&text_color=c9d1d9"/>
 
-<img src="https://streak-stats.demolab.com?user=kvn4real&theme=dark&hide_border=true&background=0D1117&stroke=39FF88&ring=6c5ce7&fire=39FF88&currStreakLabel=39FF88"/>
+<img src="https://streak-stats.demolab.com?user=kvn4real&theme=dark&hide_border=true&background=0D1117&stroke=B69AFF&ring=8b5cf6&fire=B69AFF&currStreakLabel=B69AFF"/>
 
 </div>
 
@@ -461,7 +461,7 @@ BTS SIO SISR graduate looking for a company to complete a work-study program, wh
 ### 📈 Contribution Activity
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=kvn4real&theme=react-dark&bg_color=0d1117&color=39FF88&line=6c5ce7&point=39FF88&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=kvn4real&theme=react-dark&bg_color=0d0b14&color=B69AFF&line=8b5cf6&point=B69AFF&hide_border=true"/>
 </div>
 
 ---
@@ -499,7 +499,7 @@ current_focus:
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kevinb.bayeul@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR-LINKEDIN)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kvn4real)
-[![Portfolio](https://img.shields.io/badge/Portfolio-1a4d2e?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio-url.vercel.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-3a2470?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio-url.vercel.app)
 
 </div>
 
@@ -516,6 +516,6 @@ current_focus:
 
 *"Infrastructure you don't notice is infrastructure that works."*
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a4d2e,50:0f2b1d,100:0d1117&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3a2470,50:1a1030,100:0d0b14&height=120&section=footer" width="100%"/>
 
 </div>
