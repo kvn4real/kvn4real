@@ -5,7 +5,7 @@
 ![BTS SIO SISR](https://img.shields.io/badge/BTS%20SIO-SISR-3a2470?style=flat-square&labelColor=0d0b14&color=B69AFF)
 ![Location](https://img.shields.io/badge/Île--de--France,%20France-0d0b14?style=flat-square&labelColor=0d0b14&color=8b5cf6)
 
-[Portfolio](https://your-portfolio-url.vercel.app) · [LinkedIn](https://www.linkedin.com/in/kevinbayeul) · [Email](mailto:kevinb.bayeul@gmail.com) · [GitHub](https://github.com/kvn4real)
+[Portfolio](https://kevinbayeul.fr) · [LinkedIn](https://www.linkedin.com/in/kevinbayeul) · [Email](mailto:kevinb.bayeul@gmail.com) · [GitHub](https://github.com/kvn4real)
 
 ### 🇫🇷 [Français](#-français) &nbsp;·&nbsp; 🇬🇧 [English](#-english)
 
@@ -216,19 +216,6 @@ Personal portfolio site built in vanilla HTML/CSS/JS, including a live tech-watc
 </details>
 
 <details>
-<summary><b>Tranquillo Sub Foot — Subscription Manager</b></summary>
-<br/>
-
-A football subscription management web app tracking payments and subscriptions with interactive charts.
-
-| | |
-|---|---|
-| **Stack** | Next.js, Tailwind CSS v4, Recharts, localStorage |
-| **Repository** | `kvn4real/tranquillo-sub-foot` |
-
-</details>
-
-<details>
 <summary><b>ORBIT — Streetwear E-commerce</b></summary>
 <br/>
 
@@ -273,7 +260,7 @@ Available now — Île-de-France
 
 <div align="center">
 
-[Gmail](mailto:kevinb.bayeul@gmail.com) · [LinkedIn](https://linkedin.com/in/kevinbayeul) · [GitHub](https://github.com/kvn4real) · [Portfolio](https://your-portfolio-url.vercel.app)
+[Gmail](mailto:kevinb.bayeul@gmail.com) · [LinkedIn](https://linkedin.com/in/kevinbayeul) · [GitHub](https://github.com/kvn4real) · [Portfolio](https://kevinbayeul.fr)
 
 </div>
 
